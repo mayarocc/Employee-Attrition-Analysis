@@ -46,7 +46,6 @@ The dataset allows for the application of several types of analytics, including 
   - Changing data types.
   - Exploratory Data Analysis (EDA).
 - **Matplotlib & Seaborn**: Libraries for data visualization.
-  - Creating plots and charts to visualize trends and patterns.
 - **Scikit-learn**: Used for preprocessing and machine learning.
   - Feature discretization, normalization, and encoding.
   - Train-test split for model evaluation.
@@ -56,6 +55,6 @@ The dataset allows for the application of several types of analytics, including 
 - **Employees_dataset.csv**: The dataset used for analysis was downloaded from Kaggle. Errors were intentionally introduced to the dataset for data cleaning practice.
 
 ## Running the Project
-The project is deployed in `main.py`. To run it, simply execute:
+The project is deployed in `main.ipynb`. To run it, simply execute:
 ```bash
 python main.py
